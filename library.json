@@ -1,0 +1,31 @@
+{
+  "name": "nahs-Bricks-Lib-HDC1080",
+  "version": "1.0.0",
+  "description": "Interfaceing functions for HDC1080 Humidity/Temperature Sensor",
+  "keywords": "NAHS-Bricks, interface, sensor, humidity, temperature",
+  "repository":
+  {
+    "type": "git",
+    "url": "git@github.com:NAHS-Bricks/Lib-HDC1080.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Nils Ost",
+      "email": "home@nijos.de",
+      "url": "https://nijos.de",
+      "maintainer": true
+    }
+  ],
+  "exclude": [
+    ".gitignore"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://bricks.nijos.de/",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*",
+  "examples": "examples/*/*.ino"
+}
+
